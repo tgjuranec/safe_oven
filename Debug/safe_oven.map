@@ -1,0 +1,1682 @@
+Archive member included to satisfy reference by file (symbol)
+
+/home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(adc_11xx.o)
+                              ./src/adc.o (Chip_ADC_Init)
+/home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(chip_11xx.o)
+                              ./src/sch.o (SystemCoreClock)
+/home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(clock_11xx.o)
+                              ./src/LCD1602.o (Chip_Clock_GetSystemClockRate)
+/home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+                              ./src/io.o (Chip_GPIO_Init)
+/home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+                              /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(adc_11xx.o) (Chip_SYSCTL_PowerDown)
+/home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysinit_11xx.o)
+                              ./src/sysinit.o (Chip_SystemInit)
+/home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(timer_11xx.o)
+                              ./src/LCD1602.o (Chip_TIMER_Init)
+/opt/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(__weak__main.o)
+                              ./src/cr_startup_lpc11xx.o (__main)
+/opt/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/libcr_eabihelpers.a(division_32.o)
+                              ./src/data_process.o (__aeabi_idiv)
+/opt/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/libcr_eabihelpers.a(division_idiv0.o)
+                              /opt/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/libcr_eabihelpers.a(division_32.o) (__aeabi_idiv0)
+
+Allocating common symbols
+Common symbol       size              file
+
+SystemCoreClock     0x4               /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(chip_11xx.o)
+
+Discarded input sections
+
+ .group         0x00000000        0x8 ./src/LCD1602.o
+ .group         0x00000000        0x8 ./src/LCD1602.o
+ .group         0x00000000        0x8 ./src/LCD1602.o
+ .group         0x00000000        0x8 ./src/LCD1602.o
+ .group         0x00000000        0x8 ./src/LCD1602.o
+ .group         0x00000000        0x8 ./src/LCD1602.o
+ .group         0x00000000        0x8 ./src/LCD1602.o
+ .group         0x00000000        0x8 ./src/LCD1602.o
+ .group         0x00000000        0x8 ./src/LCD1602.o
+ .group         0x00000000        0x8 ./src/LCD1602.o
+ .group         0x00000000        0x8 ./src/LCD1602.o
+ .group         0x00000000        0x8 ./src/LCD1602.o
+ .group         0x00000000        0x8 ./src/LCD1602.o
+ .group         0x00000000        0x8 ./src/LCD1602.o
+ .group         0x00000000        0x8 ./src/LCD1602.o
+ .group         0x00000000        0x8 ./src/LCD1602.o
+ .group         0x00000000        0x8 ./src/LCD1602.o
+ .group         0x00000000        0x8 ./src/LCD1602.o
+ .group         0x00000000        0x8 ./src/LCD1602.o
+ .group         0x00000000        0x8 ./src/LCD1602.o
+ .group         0x00000000        0x8 ./src/LCD1602.o
+ .group         0x00000000        0x8 ./src/LCD1602.o
+ .group         0x00000000        0x8 ./src/LCD1602.o
+ .group         0x00000000        0x8 ./src/LCD1602.o
+ .group         0x00000000        0x8 ./src/LCD1602.o
+ .text          0x00000000        0x0 ./src/LCD1602.o
+ .data          0x00000000        0x0 ./src/LCD1602.o
+ .bss           0x00000000        0x0 ./src/LCD1602.o
+ .text.LCD1602_return_home
+                0x00000000       0x10 ./src/LCD1602.o
+ .text.LCD1602_shift
+                0x00000000       0x34 ./src/LCD1602.o
+ .text.LCD1602_led_on
+                0x00000000       0x1c ./src/LCD1602.o
+ .text.LCD1602_led_off
+                0x00000000       0x1c ./src/LCD1602.o
+ .text.LCD1602_poweroff
+                0x00000000       0x1c ./src/LCD1602.o
+ .text.LCD1602_displayoff
+                0x00000000       0x10 ./src/LCD1602.o
+ .text.LCD1602_displayon
+                0x00000000       0x10 ./src/LCD1602.o
+ .group         0x00000000        0x8 ./src/adc.o
+ .group         0x00000000        0x8 ./src/adc.o
+ .group         0x00000000        0x8 ./src/adc.o
+ .group         0x00000000        0x8 ./src/adc.o
+ .group         0x00000000        0x8 ./src/adc.o
+ .group         0x00000000        0x8 ./src/adc.o
+ .group         0x00000000        0x8 ./src/adc.o
+ .group         0x00000000        0x8 ./src/adc.o
+ .group         0x00000000        0x8 ./src/adc.o
+ .group         0x00000000        0x8 ./src/adc.o
+ .group         0x00000000        0x8 ./src/adc.o
+ .group         0x00000000        0x8 ./src/adc.o
+ .group         0x00000000        0x8 ./src/adc.o
+ .group         0x00000000        0x8 ./src/adc.o
+ .group         0x00000000        0x8 ./src/adc.o
+ .group         0x00000000        0x8 ./src/adc.o
+ .group         0x00000000        0x8 ./src/adc.o
+ .group         0x00000000        0x8 ./src/adc.o
+ .group         0x00000000        0x8 ./src/adc.o
+ .group         0x00000000        0x8 ./src/adc.o
+ .group         0x00000000        0x8 ./src/adc.o
+ .group         0x00000000        0x8 ./src/adc.o
+ .group         0x00000000        0x8 ./src/adc.o
+ .group         0x00000000        0x8 ./src/adc.o
+ .group         0x00000000        0x8 ./src/adc.o
+ .text          0x00000000        0x0 ./src/adc.o
+ .data          0x00000000        0x0 ./src/adc.o
+ .bss           0x00000000        0x0 ./src/adc.o
+ .debug_macro   0x00000000      0x84a ./src/adc.o
+ .debug_macro   0x00000000       0x10 ./src/adc.o
+ .debug_macro   0x00000000      0x12d ./src/adc.o
+ .debug_macro   0x00000000      0x5b2 ./src/adc.o
+ .debug_macro   0x00000000       0x22 ./src/adc.o
+ .debug_macro   0x00000000       0x7b ./src/adc.o
+ .debug_macro   0x00000000       0x10 ./src/adc.o
+ .debug_macro   0x00000000       0x1f ./src/adc.o
+ .debug_macro   0x00000000       0x3a ./src/adc.o
+ .debug_macro   0x00000000      0x241 ./src/adc.o
+ .debug_macro   0x00000000      0x117 ./src/adc.o
+ .debug_macro   0x00000000       0x22 ./src/adc.o
+ .debug_macro   0x00000000       0xb2 ./src/adc.o
+ .debug_macro   0x00000000       0x10 ./src/adc.o
+ .debug_macro   0x00000000      0x137 ./src/adc.o
+ .debug_macro   0x00000000       0x4c ./src/adc.o
+ .debug_macro   0x00000000       0x16 ./src/adc.o
+ .debug_macro   0x00000000      0x31a ./src/adc.o
+ .debug_macro   0x00000000       0x2e ./src/adc.o
+ .debug_macro   0x00000000       0xb8 ./src/adc.o
+ .debug_macro   0x00000000       0x11 ./src/adc.o
+ .debug_macro   0x00000000       0x7c ./src/adc.o
+ .debug_macro   0x00000000      0x21c ./src/adc.o
+ .debug_macro   0x00000000      0x113 ./src/adc.o
+ .group         0x00000000        0x8 ./src/buzzer.o
+ .group         0x00000000        0x8 ./src/buzzer.o
+ .group         0x00000000        0x8 ./src/buzzer.o
+ .group         0x00000000        0x8 ./src/buzzer.o
+ .group         0x00000000        0x8 ./src/buzzer.o
+ .group         0x00000000        0x8 ./src/buzzer.o
+ .group         0x00000000        0x8 ./src/buzzer.o
+ .group         0x00000000        0x8 ./src/buzzer.o
+ .group         0x00000000        0x8 ./src/buzzer.o
+ .group         0x00000000        0x8 ./src/buzzer.o
+ .group         0x00000000        0x8 ./src/buzzer.o
+ .group         0x00000000        0x8 ./src/buzzer.o
+ .group         0x00000000        0x8 ./src/buzzer.o
+ .group         0x00000000        0x8 ./src/buzzer.o
+ .group         0x00000000        0x8 ./src/buzzer.o
+ .group         0x00000000        0x8 ./src/buzzer.o
+ .group         0x00000000        0x8 ./src/buzzer.o
+ .group         0x00000000        0x8 ./src/buzzer.o
+ .group         0x00000000        0x8 ./src/buzzer.o
+ .group         0x00000000        0x8 ./src/buzzer.o
+ .group         0x00000000        0x8 ./src/buzzer.o
+ .group         0x00000000        0x8 ./src/buzzer.o
+ .group         0x00000000        0x8 ./src/buzzer.o
+ .group         0x00000000        0x8 ./src/buzzer.o
+ .group         0x00000000        0x8 ./src/buzzer.o
+ .text          0x00000000        0x0 ./src/buzzer.o
+ .data          0x00000000        0x0 ./src/buzzer.o
+ .bss           0x00000000        0x0 ./src/buzzer.o
+ .text.buzzer_const
+                0x00000000       0x24 ./src/buzzer.o
+ .text.buzzer_on2
+                0x00000000       0x38 ./src/buzzer.o
+ .text.buzzer_on4
+                0x00000000       0x38 ./src/buzzer.o
+ .text.buzzer_on6
+                0x00000000       0x38 ./src/buzzer.o
+ .text.buzzer_off
+                0x00000000       0x24 ./src/buzzer.o
+ .debug_macro   0x00000000      0x84a ./src/buzzer.o
+ .debug_macro   0x00000000       0x10 ./src/buzzer.o
+ .debug_macro   0x00000000      0x12d ./src/buzzer.o
+ .debug_macro   0x00000000      0x5b2 ./src/buzzer.o
+ .debug_macro   0x00000000       0x22 ./src/buzzer.o
+ .debug_macro   0x00000000       0x7b ./src/buzzer.o
+ .debug_macro   0x00000000       0x10 ./src/buzzer.o
+ .debug_macro   0x00000000       0x1f ./src/buzzer.o
+ .debug_macro   0x00000000       0x3a ./src/buzzer.o
+ .debug_macro   0x00000000      0x241 ./src/buzzer.o
+ .debug_macro   0x00000000      0x117 ./src/buzzer.o
+ .debug_macro   0x00000000       0x22 ./src/buzzer.o
+ .debug_macro   0x00000000       0xb2 ./src/buzzer.o
+ .debug_macro   0x00000000       0x10 ./src/buzzer.o
+ .debug_macro   0x00000000      0x137 ./src/buzzer.o
+ .debug_macro   0x00000000       0x4c ./src/buzzer.o
+ .debug_macro   0x00000000       0x16 ./src/buzzer.o
+ .debug_macro   0x00000000      0x31a ./src/buzzer.o
+ .debug_macro   0x00000000       0x2e ./src/buzzer.o
+ .debug_macro   0x00000000       0xb8 ./src/buzzer.o
+ .debug_macro   0x00000000       0x11 ./src/buzzer.o
+ .debug_macro   0x00000000       0x7c ./src/buzzer.o
+ .debug_macro   0x00000000      0x21c ./src/buzzer.o
+ .debug_macro   0x00000000      0x113 ./src/buzzer.o
+ .debug_macro   0x00000000       0x1c ./src/buzzer.o
+ .group         0x00000000        0x8 ./src/cr_startup_lpc11xx.o
+ .text          0x00000000        0x0 ./src/cr_startup_lpc11xx.o
+ .data          0x00000000        0x0 ./src/cr_startup_lpc11xx.o
+ .bss           0x00000000        0x0 ./src/cr_startup_lpc11xx.o
+ .debug_macro   0x00000000      0x84a ./src/cr_startup_lpc11xx.o
+ .group         0x00000000        0x8 ./src/crp.o
+ .group         0x00000000        0x8 ./src/crp.o
+ .text          0x00000000        0x0 ./src/crp.o
+ .data          0x00000000        0x0 ./src/crp.o
+ .bss           0x00000000        0x0 ./src/crp.o
+ .debug_macro   0x00000000      0x84a ./src/crp.o
+ .group         0x00000000        0x8 ./src/data_process.o
+ .group         0x00000000        0x8 ./src/data_process.o
+ .group         0x00000000        0x8 ./src/data_process.o
+ .group         0x00000000        0x8 ./src/data_process.o
+ .group         0x00000000        0x8 ./src/data_process.o
+ .group         0x00000000        0x8 ./src/data_process.o
+ .group         0x00000000        0x8 ./src/data_process.o
+ .group         0x00000000        0x8 ./src/data_process.o
+ .group         0x00000000        0x8 ./src/data_process.o
+ .group         0x00000000        0x8 ./src/data_process.o
+ .group         0x00000000        0x8 ./src/data_process.o
+ .group         0x00000000        0x8 ./src/data_process.o
+ .group         0x00000000        0x8 ./src/data_process.o
+ .group         0x00000000        0x8 ./src/data_process.o
+ .group         0x00000000        0x8 ./src/data_process.o
+ .group         0x00000000        0x8 ./src/data_process.o
+ .group         0x00000000        0x8 ./src/data_process.o
+ .group         0x00000000        0x8 ./src/data_process.o
+ .group         0x00000000        0x8 ./src/data_process.o
+ .group         0x00000000        0x8 ./src/data_process.o
+ .group         0x00000000        0x8 ./src/data_process.o
+ .group         0x00000000        0x8 ./src/data_process.o
+ .group         0x00000000        0x8 ./src/data_process.o
+ .group         0x00000000        0x8 ./src/data_process.o
+ .group         0x00000000        0x8 ./src/data_process.o
+ .text          0x00000000        0x0 ./src/data_process.o
+ .data          0x00000000        0x0 ./src/data_process.o
+ .bss           0x00000000        0x0 ./src/data_process.o
+ .debug_macro   0x00000000      0x84a ./src/data_process.o
+ .debug_macro   0x00000000       0x10 ./src/data_process.o
+ .debug_macro   0x00000000      0x12d ./src/data_process.o
+ .debug_macro   0x00000000      0x5b2 ./src/data_process.o
+ .debug_macro   0x00000000       0x22 ./src/data_process.o
+ .debug_macro   0x00000000       0x7b ./src/data_process.o
+ .debug_macro   0x00000000       0x10 ./src/data_process.o
+ .debug_macro   0x00000000       0x1f ./src/data_process.o
+ .debug_macro   0x00000000       0x3a ./src/data_process.o
+ .debug_macro   0x00000000      0x241 ./src/data_process.o
+ .debug_macro   0x00000000      0x117 ./src/data_process.o
+ .debug_macro   0x00000000       0x22 ./src/data_process.o
+ .debug_macro   0x00000000       0xb2 ./src/data_process.o
+ .debug_macro   0x00000000       0x10 ./src/data_process.o
+ .debug_macro   0x00000000      0x137 ./src/data_process.o
+ .debug_macro   0x00000000       0x4c ./src/data_process.o
+ .debug_macro   0x00000000       0x16 ./src/data_process.o
+ .debug_macro   0x00000000      0x31a ./src/data_process.o
+ .debug_macro   0x00000000       0x2e ./src/data_process.o
+ .debug_macro   0x00000000       0xb8 ./src/data_process.o
+ .debug_macro   0x00000000       0x11 ./src/data_process.o
+ .debug_macro   0x00000000       0x7c ./src/data_process.o
+ .debug_macro   0x00000000      0x21c ./src/data_process.o
+ .debug_macro   0x00000000      0x113 ./src/data_process.o
+ .debug_macro   0x00000000       0xbe ./src/data_process.o
+ .group         0x00000000        0x8 ./src/io.o
+ .group         0x00000000        0x8 ./src/io.o
+ .group         0x00000000        0x8 ./src/io.o
+ .group         0x00000000        0x8 ./src/io.o
+ .group         0x00000000        0x8 ./src/io.o
+ .group         0x00000000        0x8 ./src/io.o
+ .group         0x00000000        0x8 ./src/io.o
+ .group         0x00000000        0x8 ./src/io.o
+ .group         0x00000000        0x8 ./src/io.o
+ .group         0x00000000        0x8 ./src/io.o
+ .group         0x00000000        0x8 ./src/io.o
+ .group         0x00000000        0x8 ./src/io.o
+ .group         0x00000000        0x8 ./src/io.o
+ .group         0x00000000        0x8 ./src/io.o
+ .group         0x00000000        0x8 ./src/io.o
+ .group         0x00000000        0x8 ./src/io.o
+ .group         0x00000000        0x8 ./src/io.o
+ .group         0x00000000        0x8 ./src/io.o
+ .group         0x00000000        0x8 ./src/io.o
+ .group         0x00000000        0x8 ./src/io.o
+ .group         0x00000000        0x8 ./src/io.o
+ .group         0x00000000        0x8 ./src/io.o
+ .group         0x00000000        0x8 ./src/io.o
+ .group         0x00000000        0x8 ./src/io.o
+ .text          0x00000000        0x0 ./src/io.o
+ .data          0x00000000        0x0 ./src/io.o
+ .bss           0x00000000        0x0 ./src/io.o
+ .debug_macro   0x00000000      0x84a ./src/io.o
+ .debug_macro   0x00000000       0x10 ./src/io.o
+ .debug_macro   0x00000000      0x12d ./src/io.o
+ .debug_macro   0x00000000      0x5b2 ./src/io.o
+ .debug_macro   0x00000000       0x22 ./src/io.o
+ .debug_macro   0x00000000       0x7b ./src/io.o
+ .debug_macro   0x00000000       0x10 ./src/io.o
+ .debug_macro   0x00000000       0x1f ./src/io.o
+ .debug_macro   0x00000000       0x3a ./src/io.o
+ .debug_macro   0x00000000      0x241 ./src/io.o
+ .debug_macro   0x00000000      0x117 ./src/io.o
+ .debug_macro   0x00000000       0x22 ./src/io.o
+ .debug_macro   0x00000000       0xb2 ./src/io.o
+ .debug_macro   0x00000000       0x10 ./src/io.o
+ .debug_macro   0x00000000      0x137 ./src/io.o
+ .debug_macro   0x00000000       0x4c ./src/io.o
+ .debug_macro   0x00000000       0x16 ./src/io.o
+ .debug_macro   0x00000000      0x31a ./src/io.o
+ .debug_macro   0x00000000       0x2e ./src/io.o
+ .debug_macro   0x00000000       0xb8 ./src/io.o
+ .debug_macro   0x00000000       0x11 ./src/io.o
+ .debug_macro   0x00000000       0x7c ./src/io.o
+ .debug_macro   0x00000000      0x21c ./src/io.o
+ .debug_macro   0x00000000      0x113 ./src/io.o
+ .group         0x00000000        0x8 ./src/safe_oven.o
+ .group         0x00000000        0x8 ./src/safe_oven.o
+ .group         0x00000000        0x8 ./src/safe_oven.o
+ .group         0x00000000        0x8 ./src/safe_oven.o
+ .group         0x00000000        0x8 ./src/safe_oven.o
+ .group         0x00000000        0x8 ./src/safe_oven.o
+ .group         0x00000000        0x8 ./src/safe_oven.o
+ .group         0x00000000        0x8 ./src/safe_oven.o
+ .group         0x00000000        0x8 ./src/safe_oven.o
+ .group         0x00000000        0x8 ./src/safe_oven.o
+ .group         0x00000000        0x8 ./src/safe_oven.o
+ .group         0x00000000        0x8 ./src/safe_oven.o
+ .group         0x00000000        0x8 ./src/safe_oven.o
+ .group         0x00000000        0x8 ./src/safe_oven.o
+ .group         0x00000000        0x8 ./src/safe_oven.o
+ .group         0x00000000        0x8 ./src/safe_oven.o
+ .group         0x00000000        0x8 ./src/safe_oven.o
+ .group         0x00000000        0x8 ./src/safe_oven.o
+ .group         0x00000000        0x8 ./src/safe_oven.o
+ .group         0x00000000        0x8 ./src/safe_oven.o
+ .group         0x00000000        0x8 ./src/safe_oven.o
+ .group         0x00000000        0x8 ./src/safe_oven.o
+ .group         0x00000000        0x8 ./src/safe_oven.o
+ .group         0x00000000        0x8 ./src/safe_oven.o
+ .group         0x00000000        0x8 ./src/safe_oven.o
+ .group         0x00000000        0x8 ./src/safe_oven.o
+ .group         0x00000000        0x8 ./src/safe_oven.o
+ .text          0x00000000        0x0 ./src/safe_oven.o
+ .data          0x00000000        0x0 ./src/safe_oven.o
+ .bss           0x00000000        0x0 ./src/safe_oven.o
+ .debug_macro   0x00000000      0x84a ./src/safe_oven.o
+ .debug_macro   0x00000000       0x10 ./src/safe_oven.o
+ .debug_macro   0x00000000      0x12d ./src/safe_oven.o
+ .debug_macro   0x00000000      0x5b2 ./src/safe_oven.o
+ .debug_macro   0x00000000       0x22 ./src/safe_oven.o
+ .debug_macro   0x00000000       0x7b ./src/safe_oven.o
+ .debug_macro   0x00000000       0x10 ./src/safe_oven.o
+ .debug_macro   0x00000000       0x1f ./src/safe_oven.o
+ .debug_macro   0x00000000       0x3a ./src/safe_oven.o
+ .debug_macro   0x00000000      0x241 ./src/safe_oven.o
+ .debug_macro   0x00000000      0x117 ./src/safe_oven.o
+ .debug_macro   0x00000000       0x22 ./src/safe_oven.o
+ .debug_macro   0x00000000       0xb2 ./src/safe_oven.o
+ .debug_macro   0x00000000       0x10 ./src/safe_oven.o
+ .debug_macro   0x00000000      0x137 ./src/safe_oven.o
+ .debug_macro   0x00000000       0x4c ./src/safe_oven.o
+ .debug_macro   0x00000000       0x16 ./src/safe_oven.o
+ .debug_macro   0x00000000      0x31a ./src/safe_oven.o
+ .debug_macro   0x00000000       0x2e ./src/safe_oven.o
+ .debug_macro   0x00000000       0xb8 ./src/safe_oven.o
+ .debug_macro   0x00000000       0x11 ./src/safe_oven.o
+ .debug_macro   0x00000000       0x7c ./src/safe_oven.o
+ .debug_macro   0x00000000      0x21c ./src/safe_oven.o
+ .debug_macro   0x00000000      0x113 ./src/safe_oven.o
+ .debug_macro   0x00000000       0x1c ./src/safe_oven.o
+ .debug_macro   0x00000000       0xbe ./src/safe_oven.o
+ .group         0x00000000        0x8 ./src/sch.o
+ .group         0x00000000        0x8 ./src/sch.o
+ .group         0x00000000        0x8 ./src/sch.o
+ .group         0x00000000        0x8 ./src/sch.o
+ .group         0x00000000        0x8 ./src/sch.o
+ .group         0x00000000        0x8 ./src/sch.o
+ .group         0x00000000        0x8 ./src/sch.o
+ .group         0x00000000        0x8 ./src/sch.o
+ .group         0x00000000        0x8 ./src/sch.o
+ .group         0x00000000        0x8 ./src/sch.o
+ .group         0x00000000        0x8 ./src/sch.o
+ .group         0x00000000        0x8 ./src/sch.o
+ .group         0x00000000        0x8 ./src/sch.o
+ .group         0x00000000        0x8 ./src/sch.o
+ .group         0x00000000        0x8 ./src/sch.o
+ .group         0x00000000        0x8 ./src/sch.o
+ .group         0x00000000        0x8 ./src/sch.o
+ .group         0x00000000        0x8 ./src/sch.o
+ .group         0x00000000        0x8 ./src/sch.o
+ .group         0x00000000        0x8 ./src/sch.o
+ .group         0x00000000        0x8 ./src/sch.o
+ .group         0x00000000        0x8 ./src/sch.o
+ .group         0x00000000        0x8 ./src/sch.o
+ .group         0x00000000        0x8 ./src/sch.o
+ .group         0x00000000        0x8 ./src/sch.o
+ .text          0x00000000        0x0 ./src/sch.o
+ .data          0x00000000        0x0 ./src/sch.o
+ .bss           0x00000000        0x0 ./src/sch.o
+ .text.tmr_delay_us
+                0x00000000       0x7c ./src/sch.o
+ .text.tmr_delay_cputicks
+                0x00000000       0x4c ./src/sch.o
+ .debug_macro   0x00000000      0x84a ./src/sch.o
+ .debug_macro   0x00000000       0x10 ./src/sch.o
+ .debug_macro   0x00000000      0x12d ./src/sch.o
+ .debug_macro   0x00000000      0x5b2 ./src/sch.o
+ .debug_macro   0x00000000       0x22 ./src/sch.o
+ .debug_macro   0x00000000       0x7b ./src/sch.o
+ .debug_macro   0x00000000       0x10 ./src/sch.o
+ .debug_macro   0x00000000       0x1f ./src/sch.o
+ .debug_macro   0x00000000       0x3a ./src/sch.o
+ .debug_macro   0x00000000      0x241 ./src/sch.o
+ .debug_macro   0x00000000      0x117 ./src/sch.o
+ .debug_macro   0x00000000       0x22 ./src/sch.o
+ .debug_macro   0x00000000       0xb2 ./src/sch.o
+ .debug_macro   0x00000000       0x10 ./src/sch.o
+ .debug_macro   0x00000000      0x137 ./src/sch.o
+ .debug_macro   0x00000000       0x4c ./src/sch.o
+ .debug_macro   0x00000000       0x16 ./src/sch.o
+ .debug_macro   0x00000000      0x31a ./src/sch.o
+ .debug_macro   0x00000000       0x2e ./src/sch.o
+ .debug_macro   0x00000000       0xb8 ./src/sch.o
+ .debug_macro   0x00000000       0x11 ./src/sch.o
+ .debug_macro   0x00000000       0x7c ./src/sch.o
+ .debug_macro   0x00000000      0x21c ./src/sch.o
+ .debug_macro   0x00000000      0x113 ./src/sch.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .text          0x00000000        0x0 ./src/sysinit.o
+ .data          0x00000000        0x0 ./src/sysinit.o
+ .bss           0x00000000        0x0 ./src/sysinit.o
+ .rodata.ExtRateIn
+                0x00000000        0x4 ./src/sysinit.o
+ .debug_macro   0x00000000      0x84a ./src/sysinit.o
+ .debug_macro   0x00000000       0x10 ./src/sysinit.o
+ .debug_macro   0x00000000      0x12d ./src/sysinit.o
+ .debug_macro   0x00000000      0x5b2 ./src/sysinit.o
+ .debug_macro   0x00000000       0x22 ./src/sysinit.o
+ .debug_macro   0x00000000       0x7b ./src/sysinit.o
+ .debug_macro   0x00000000       0x10 ./src/sysinit.o
+ .debug_macro   0x00000000       0x1f ./src/sysinit.o
+ .debug_macro   0x00000000       0x3a ./src/sysinit.o
+ .debug_macro   0x00000000      0x241 ./src/sysinit.o
+ .debug_macro   0x00000000      0x117 ./src/sysinit.o
+ .debug_macro   0x00000000       0x22 ./src/sysinit.o
+ .debug_macro   0x00000000       0xb2 ./src/sysinit.o
+ .debug_macro   0x00000000       0x10 ./src/sysinit.o
+ .debug_macro   0x00000000      0x137 ./src/sysinit.o
+ .debug_macro   0x00000000       0x4c ./src/sysinit.o
+ .debug_macro   0x00000000       0x16 ./src/sysinit.o
+ .debug_macro   0x00000000      0x31a ./src/sysinit.o
+ .debug_macro   0x00000000       0x2e ./src/sysinit.o
+ .debug_macro   0x00000000       0xb8 ./src/sysinit.o
+ .debug_macro   0x00000000       0x11 ./src/sysinit.o
+ .debug_macro   0x00000000       0x7c ./src/sysinit.o
+ .debug_macro   0x00000000      0x21c ./src/sysinit.o
+ .debug_macro   0x00000000      0x113 ./src/sysinit.o
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(adc_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(adc_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(adc_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(adc_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(adc_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(adc_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(adc_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(adc_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(adc_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(adc_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(adc_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(adc_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(adc_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(adc_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(adc_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(adc_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(adc_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(adc_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(adc_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(adc_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(adc_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(adc_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(adc_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(adc_11xx.o)
+ .text          0x00000000        0x0 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(adc_11xx.o)
+ .data          0x00000000        0x0 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(adc_11xx.o)
+ .bss           0x00000000        0x0 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(adc_11xx.o)
+ .text.Chip_Clock_DisablePeriphClock
+                0x00000000       0x34 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(adc_11xx.o)
+ .text.Chip_ADC_DeInit
+                0x00000000       0x2c /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(adc_11xx.o)
+ .text.Chip_ADC_Int_SetChannelCmd
+                0x00000000       0x54 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(adc_11xx.o)
+ .text.Chip_ADC_SetResolution
+                0x00000000       0x2c /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(adc_11xx.o)
+ .text.Chip_ADC_SetBurstCmd
+                0x00000000       0x48 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(adc_11xx.o)
+ .text.Chip_ADC_ReadByte
+                0x00000000       0x50 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(adc_11xx.o)
+ .debug_macro   0x00000000       0x10 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(adc_11xx.o)
+ .debug_macro   0x00000000      0x12d /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(adc_11xx.o)
+ .debug_macro   0x00000000      0x5b2 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(adc_11xx.o)
+ .debug_macro   0x00000000       0x22 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(adc_11xx.o)
+ .debug_macro   0x00000000       0x7b /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(adc_11xx.o)
+ .debug_macro   0x00000000       0x10 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(adc_11xx.o)
+ .debug_macro   0x00000000       0x1f /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(adc_11xx.o)
+ .debug_macro   0x00000000       0x3a /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(adc_11xx.o)
+ .debug_macro   0x00000000      0x241 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(adc_11xx.o)
+ .debug_macro   0x00000000      0x117 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(adc_11xx.o)
+ .debug_macro   0x00000000       0x22 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(adc_11xx.o)
+ .debug_macro   0x00000000       0xb2 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(adc_11xx.o)
+ .debug_macro   0x00000000       0x10 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(adc_11xx.o)
+ .debug_macro   0x00000000      0x137 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(adc_11xx.o)
+ .debug_macro   0x00000000       0x4c /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(adc_11xx.o)
+ .debug_macro   0x00000000       0x16 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(adc_11xx.o)
+ .debug_macro   0x00000000      0x31a /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(adc_11xx.o)
+ .debug_macro   0x00000000       0x2e /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(adc_11xx.o)
+ .debug_macro   0x00000000       0xb8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(adc_11xx.o)
+ .debug_macro   0x00000000       0x11 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(adc_11xx.o)
+ .debug_macro   0x00000000       0x7c /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(adc_11xx.o)
+ .debug_macro   0x00000000      0x21c /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(adc_11xx.o)
+ .debug_macro   0x00000000      0x113 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(adc_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(chip_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(chip_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(chip_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(chip_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(chip_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(chip_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(chip_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(chip_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(chip_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(chip_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(chip_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(chip_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(chip_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(chip_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(chip_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(chip_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(chip_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(chip_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(chip_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(chip_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(chip_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(chip_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(chip_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(chip_11xx.o)
+ .text          0x00000000        0x0 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(chip_11xx.o)
+ .data          0x00000000        0x0 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(chip_11xx.o)
+ .bss           0x00000000        0x0 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(chip_11xx.o)
+ .debug_macro   0x00000000      0x838 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(chip_11xx.o)
+ .debug_macro   0x00000000       0x10 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(chip_11xx.o)
+ .debug_macro   0x00000000      0x12d /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(chip_11xx.o)
+ .debug_macro   0x00000000      0x5b2 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(chip_11xx.o)
+ .debug_macro   0x00000000       0x22 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(chip_11xx.o)
+ .debug_macro   0x00000000       0x7b /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(chip_11xx.o)
+ .debug_macro   0x00000000       0x10 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(chip_11xx.o)
+ .debug_macro   0x00000000       0x1f /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(chip_11xx.o)
+ .debug_macro   0x00000000       0x3a /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(chip_11xx.o)
+ .debug_macro   0x00000000      0x241 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(chip_11xx.o)
+ .debug_macro   0x00000000      0x117 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(chip_11xx.o)
+ .debug_macro   0x00000000       0x22 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(chip_11xx.o)
+ .debug_macro   0x00000000       0xb2 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(chip_11xx.o)
+ .debug_macro   0x00000000       0x10 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(chip_11xx.o)
+ .debug_macro   0x00000000      0x137 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(chip_11xx.o)
+ .debug_macro   0x00000000       0x4c /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(chip_11xx.o)
+ .debug_macro   0x00000000       0x16 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(chip_11xx.o)
+ .debug_macro   0x00000000      0x31a /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(chip_11xx.o)
+ .debug_macro   0x00000000       0x2e /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(chip_11xx.o)
+ .debug_macro   0x00000000       0xb8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(chip_11xx.o)
+ .debug_macro   0x00000000       0x11 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(chip_11xx.o)
+ .debug_macro   0x00000000       0x7c /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(chip_11xx.o)
+ .debug_macro   0x00000000      0x21c /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(chip_11xx.o)
+ .debug_macro   0x00000000      0x113 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(chip_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .text          0x00000000        0x0 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .data          0x00000000        0x0 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .bss           0x00000000        0x0 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .text.Chip_Clock_SetPLLBypass
+                0x00000000       0x48 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .text.Chip_Clock_SetWDTClockSource
+                0x00000000       0x3c /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .text.Chip_Clock_SetCLKOUTSource
+                0x00000000       0x3c /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .debug_macro   0x00000000      0x838 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .debug_macro   0x00000000       0x10 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .debug_macro   0x00000000      0x12d /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .debug_macro   0x00000000      0x5b2 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .debug_macro   0x00000000       0x22 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .debug_macro   0x00000000       0x7b /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .debug_macro   0x00000000       0x10 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .debug_macro   0x00000000       0x1f /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .debug_macro   0x00000000       0x3a /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .debug_macro   0x00000000      0x241 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .debug_macro   0x00000000      0x117 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .debug_macro   0x00000000       0x22 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .debug_macro   0x00000000       0xb2 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .debug_macro   0x00000000       0x10 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .debug_macro   0x00000000      0x137 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .debug_macro   0x00000000       0x4c /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .debug_macro   0x00000000       0x16 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .debug_macro   0x00000000      0x31a /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .debug_macro   0x00000000       0x2e /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .debug_macro   0x00000000       0xb8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .debug_macro   0x00000000       0x11 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .debug_macro   0x00000000       0x7c /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .debug_macro   0x00000000      0x21c /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .debug_macro   0x00000000      0x113 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .text          0x00000000        0x0 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .data          0x00000000        0x0 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .bss           0x00000000        0x0 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .text.Chip_Clock_DisablePeriphClock
+                0x00000000       0x34 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .text.Chip_GPIO_SetPinDIROutput
+                0x00000000       0x4c /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .text.Chip_GPIO_SetPinDIRInput
+                0x00000000       0x50 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .text.Chip_GPIO_SetPortDIROutput
+                0x00000000       0x44 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .text.Chip_GPIO_SetPortDIRInput
+                0x00000000       0x44 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .text.Chip_GPIO_SetPinModeEdge
+                0x00000000       0x44 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .text.Chip_GPIO_SetPinModeLevel
+                0x00000000       0x44 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .text.Chip_GPIO_SetEdgeModeBoth
+                0x00000000       0x44 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .text.Chip_GPIO_SetEdgeModeSingle
+                0x00000000       0x44 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .text.Chip_GPIO_SetModeHigh
+                0x00000000       0x44 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .text.Chip_GPIO_SetModeLow
+                0x00000000       0x44 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .text.Chip_GPIO_DeInit
+                0x00000000       0x18 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .text.Chip_GPIO_WriteDirBit
+                0x00000000       0x7c /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .text.Chip_GPIO_SetDir
+                0x00000000       0x84 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .text.Chip_GPIO_SetPinDIR
+                0x00000000       0x54 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .text.Chip_GPIO_SetPortDIR
+                0x00000000       0x54 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .text.Chip_GPIO_SetupPinInt
+                0x00000000       0xac /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .debug_macro   0x00000000      0x838 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .debug_macro   0x00000000       0x10 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .debug_macro   0x00000000      0x12d /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .debug_macro   0x00000000      0x5b2 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .debug_macro   0x00000000       0x22 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .debug_macro   0x00000000       0x7b /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .debug_macro   0x00000000       0x10 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .debug_macro   0x00000000       0x1f /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .debug_macro   0x00000000       0x3a /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .debug_macro   0x00000000      0x241 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .debug_macro   0x00000000      0x117 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .debug_macro   0x00000000       0x22 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .debug_macro   0x00000000       0xb2 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .debug_macro   0x00000000       0x10 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .debug_macro   0x00000000      0x137 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .debug_macro   0x00000000       0x4c /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .debug_macro   0x00000000       0x16 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .debug_macro   0x00000000      0x31a /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .debug_macro   0x00000000       0x2e /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .debug_macro   0x00000000       0xb8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .debug_macro   0x00000000       0x11 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .debug_macro   0x00000000       0x7c /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .debug_macro   0x00000000      0x21c /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .debug_macro   0x00000000      0x113 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+ .text          0x00000000        0x0 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+ .data          0x00000000        0x0 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+ .bss           0x00000000        0x0 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+ .text.Chip_SYSCTL_SetDeepSleepPD
+                0x00000000       0x2c /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+ .text.Chip_SYSCTL_SetWakeup
+                0x00000000       0x28 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+ .debug_macro   0x00000000      0x838 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+ .debug_macro   0x00000000       0x10 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+ .debug_macro   0x00000000      0x12d /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+ .debug_macro   0x00000000      0x5b2 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+ .debug_macro   0x00000000       0x22 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+ .debug_macro   0x00000000       0x7b /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+ .debug_macro   0x00000000       0x10 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+ .debug_macro   0x00000000       0x1f /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+ .debug_macro   0x00000000       0x3a /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+ .debug_macro   0x00000000      0x241 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+ .debug_macro   0x00000000      0x117 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+ .debug_macro   0x00000000       0x22 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+ .debug_macro   0x00000000       0xb2 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+ .debug_macro   0x00000000       0x10 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+ .debug_macro   0x00000000      0x137 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+ .debug_macro   0x00000000       0x4c /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+ .debug_macro   0x00000000       0x16 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+ .debug_macro   0x00000000      0x31a /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+ .debug_macro   0x00000000       0x2e /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+ .debug_macro   0x00000000       0xb8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+ .debug_macro   0x00000000       0x11 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+ .debug_macro   0x00000000       0x7c /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+ .debug_macro   0x00000000      0x21c /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+ .debug_macro   0x00000000      0x113 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysinit_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysinit_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysinit_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysinit_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysinit_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysinit_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysinit_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysinit_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysinit_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysinit_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysinit_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysinit_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysinit_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysinit_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysinit_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysinit_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysinit_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysinit_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysinit_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysinit_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysinit_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysinit_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysinit_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysinit_11xx.o)
+ .text          0x00000000        0x0 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysinit_11xx.o)
+ .data          0x00000000        0x0 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysinit_11xx.o)
+ .bss           0x00000000        0x0 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysinit_11xx.o)
+ .debug_macro   0x00000000      0x838 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysinit_11xx.o)
+ .debug_macro   0x00000000       0x10 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysinit_11xx.o)
+ .debug_macro   0x00000000      0x12d /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysinit_11xx.o)
+ .debug_macro   0x00000000      0x5b2 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysinit_11xx.o)
+ .debug_macro   0x00000000       0x22 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysinit_11xx.o)
+ .debug_macro   0x00000000       0x7b /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysinit_11xx.o)
+ .debug_macro   0x00000000       0x10 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysinit_11xx.o)
+ .debug_macro   0x00000000       0x1f /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysinit_11xx.o)
+ .debug_macro   0x00000000       0x3a /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysinit_11xx.o)
+ .debug_macro   0x00000000      0x241 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysinit_11xx.o)
+ .debug_macro   0x00000000      0x117 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysinit_11xx.o)
+ .debug_macro   0x00000000       0x22 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysinit_11xx.o)
+ .debug_macro   0x00000000       0xb2 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysinit_11xx.o)
+ .debug_macro   0x00000000       0x10 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysinit_11xx.o)
+ .debug_macro   0x00000000      0x137 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysinit_11xx.o)
+ .debug_macro   0x00000000       0x4c /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysinit_11xx.o)
+ .debug_macro   0x00000000       0x16 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysinit_11xx.o)
+ .debug_macro   0x00000000      0x31a /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysinit_11xx.o)
+ .debug_macro   0x00000000       0x2e /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysinit_11xx.o)
+ .debug_macro   0x00000000       0xb8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysinit_11xx.o)
+ .debug_macro   0x00000000       0x11 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysinit_11xx.o)
+ .debug_macro   0x00000000       0x7c /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysinit_11xx.o)
+ .debug_macro   0x00000000      0x21c /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysinit_11xx.o)
+ .debug_macro   0x00000000      0x113 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysinit_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(timer_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(timer_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(timer_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(timer_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(timer_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(timer_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(timer_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(timer_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(timer_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(timer_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(timer_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(timer_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(timer_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(timer_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(timer_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(timer_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(timer_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(timer_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(timer_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(timer_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(timer_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(timer_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(timer_11xx.o)
+ .group         0x00000000        0x8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(timer_11xx.o)
+ .text          0x00000000        0x0 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(timer_11xx.o)
+ .data          0x00000000        0x0 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(timer_11xx.o)
+ .bss           0x00000000        0x0 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(timer_11xx.o)
+ .text.Chip_Clock_DisablePeriphClock
+                0x00000000       0x34 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(timer_11xx.o)
+ .text.Chip_TIMER_DeInit
+                0x00000000       0x20 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(timer_11xx.o)
+ .text.Chip_TIMER_ExtMatchControlSet
+                0x00000000       0x80 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(timer_11xx.o)
+ .debug_macro   0x00000000      0x838 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(timer_11xx.o)
+ .debug_macro   0x00000000       0x10 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(timer_11xx.o)
+ .debug_macro   0x00000000      0x12d /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(timer_11xx.o)
+ .debug_macro   0x00000000      0x5b2 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(timer_11xx.o)
+ .debug_macro   0x00000000       0x22 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(timer_11xx.o)
+ .debug_macro   0x00000000       0x7b /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(timer_11xx.o)
+ .debug_macro   0x00000000       0x10 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(timer_11xx.o)
+ .debug_macro   0x00000000       0x1f /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(timer_11xx.o)
+ .debug_macro   0x00000000       0x3a /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(timer_11xx.o)
+ .debug_macro   0x00000000      0x241 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(timer_11xx.o)
+ .debug_macro   0x00000000      0x117 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(timer_11xx.o)
+ .debug_macro   0x00000000       0x22 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(timer_11xx.o)
+ .debug_macro   0x00000000       0xb2 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(timer_11xx.o)
+ .debug_macro   0x00000000       0x10 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(timer_11xx.o)
+ .debug_macro   0x00000000      0x137 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(timer_11xx.o)
+ .debug_macro   0x00000000       0x4c /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(timer_11xx.o)
+ .debug_macro   0x00000000       0x16 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(timer_11xx.o)
+ .debug_macro   0x00000000      0x31a /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(timer_11xx.o)
+ .debug_macro   0x00000000       0x2e /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(timer_11xx.o)
+ .debug_macro   0x00000000       0xb8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(timer_11xx.o)
+ .debug_macro   0x00000000       0x11 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(timer_11xx.o)
+ .debug_macro   0x00000000       0x7c /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(timer_11xx.o)
+ .debug_macro   0x00000000      0x21c /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(timer_11xx.o)
+ .debug_macro   0x00000000      0x113 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(timer_11xx.o)
+ .text          0x00000000        0x0 /opt/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(__weak__main.o)
+ .data          0x00000000        0x0 /opt/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(__weak__main.o)
+ .bss           0x00000000        0x0 /opt/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(__weak__main.o)
+ .text          0x00000000        0x0 /opt/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/libcr_eabihelpers.a(division_32.o)
+ .data          0x00000000        0x0 /opt/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/libcr_eabihelpers.a(division_32.o)
+ .bss           0x00000000        0x0 /opt/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/libcr_eabihelpers.a(division_32.o)
+ .text          0x00000000        0x0 /opt/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/libcr_eabihelpers.a(division_idiv0.o)
+ .data          0x00000000        0x0 /opt/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/libcr_eabihelpers.a(division_idiv0.o)
+ .bss           0x00000000        0x0 /opt/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/libcr_eabihelpers.a(division_idiv0.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+MFlash32         0x00000000         0x00008000         xr
+RamLoc8          0x10000000         0x00002000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD ./src/LCD1602.o
+LOAD ./src/adc.o
+LOAD ./src/buzzer.o
+LOAD ./src/cr_startup_lpc11xx.o
+LOAD ./src/crp.o
+LOAD ./src/data_process.o
+LOAD ./src/io.o
+LOAD ./src/safe_oven.o
+LOAD ./src/sch.o
+LOAD ./src/sysinit.o
+LOAD /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a
+LOAD /home/tgjuranec/lpc11xx/CMSIS_DSPLIB_CM0/lib/libCMSIS_DSPLIB_CM0.a
+START GROUP
+LOAD /opt/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a
+LOAD /opt/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/libcr_eabihelpers.a
+END GROUP
+                0x00000000                __base_MFlash32 = 0x0
+                0x00000000                __base_Flash = 0x0
+                0x00008000                __top_MFlash32 = 0x8000
+                0x00008000                __top_Flash = 0x8000
+                0x10000000                __base_RamLoc8 = 0x10000000
+                0x10000000                __base_RAM = 0x10000000
+                0x10002000                __top_RamLoc8 = 0x10002000
+                0x10002000                __top_RAM = 0x10002000
+
+.text           0x00000000     0x3348
+ FILL mask 0xff
+                0x00000000                __vectors_start__ = ABSOLUTE (.)
+ *(.isr_vector)
+ .isr_vector    0x00000000       0xc0 ./src/cr_startup_lpc11xx.o
+                0x00000000                g_pfnVectors
+                0x000000c0                . = ALIGN (0x4)
+                0x000000c0                __section_table_start = .
+                0x000000c0                __data_section_table = .
+                0x000000c0        0x4 LONG 0x3348 LOADADDR (.data)
+                0x000000c4        0x4 LONG 0x10000000 ADDR (.data)
+                0x000000c8        0x4 LONG 0x2c SIZEOF (.data)
+                0x000000cc                __data_section_table_end = .
+                0x000000cc                __bss_section_table = .
+                0x000000cc        0x4 LONG 0x1000002c ADDR (.bss)
+                0x000000d0        0x4 LONG 0x180 SIZEOF (.bss)
+                0x000000d4                __bss_section_table_end = .
+                0x000000d4                __section_table_end = .
+ *(.after_vectors*)
+ .after_vectors
+                0x000000d4      0x124 ./src/cr_startup_lpc11xx.o
+                0x000000d4                data_init
+                0x00000114                bss_init
+                0x00000148                ResetISR
+                0x000001c8                NMI_Handler
+                0x000001d0                HardFault_Handler
+                0x000001d8                SVC_Handler
+                0x000001e0                PendSV_Handler
+                0x000001f0                TIMER16_0_IRQHandler
+                0x000001f0                UART_IRQHandler
+                0x000001f0                TIMER32_0_IRQHandler
+                0x000001f0                TIMER32_1_IRQHandler
+                0x000001f0                IntDefaultHandler
+                0x000001f0                PIOINT1_IRQHandler
+                0x000001f0                CAN_IRQHandler
+                0x000001f0                SSP0_IRQHandler
+                0x000001f0                TIMER16_1_IRQHandler
+                0x000001f0                ADC_IRQHandler
+                0x000001f0                SSP1_IRQHandler
+                0x000001f0                PIOINT2_IRQHandler
+                0x000001f0                BOD_IRQHandler
+                0x000001f0                WAKEUP_IRQHandler
+                0x000001f0                PIOINT0_IRQHandler
+                0x000001f0                I2C_IRQHandler
+                0x000001f0                WDT_IRQHandler
+                0x000001f0                PIOINT3_IRQHandler
+                0x000002fc                . = 0x2fc
+ *fill*         0x000001f8      0x104 ff
+                0x000002fc                PROVIDE (__CRP_WORD_START__, .)
+ *(.crp)
+ .crp           0x000002fc        0x4 ./src/crp.o
+                0x000002fc                CRP_WORD
+                0x00000300                PROVIDE (__CRP_WORD_END__, .)
+                0x00000001                ASSERT (! ((__CRP_WORD_START__ == __CRP_WORD_END__)), Linker CRP Enabled, but no CRP_WORD provided within application)
+ *(.text*)
+ .text.Chip_TIMER_Enable
+                0x00000300       0x1c ./src/LCD1602.o
+ .text.Chip_TIMER_Disable
+                0x0000031c       0x20 ./src/LCD1602.o
+ .text.Chip_TIMER_ReadCount
+                0x0000033c       0x14 ./src/LCD1602.o
+ .text.Chip_TIMER_PrescaleSet
+                0x00000350       0x18 ./src/LCD1602.o
+ .text.Chip_TIMER_SetMatch
+                0x00000368       0x2c ./src/LCD1602.o
+ .text.Chip_TIMER_MatchDisableInt
+                0x00000394       0x38 ./src/LCD1602.o
+ .text.Chip_TIMER_ResetOnMatchDisable
+                0x000003cc       0x38 ./src/LCD1602.o
+ .text.Chip_TIMER_StopOnMatchDisable
+                0x00000404       0x38 ./src/LCD1602.o
+ .text.tmr1_init
+                0x0000043c       0x68 ./src/LCD1602.o
+ .text.tmr1_delay_us
+                0x000004a4       0x74 ./src/LCD1602.o
+ .text.tmr1_timeout_set
+                0x00000518       0x60 ./src/LCD1602.o
+                0x00000518                tmr1_timeout_set
+ .text.tmr1_timeout_off
+                0x00000578       0x28 ./src/LCD1602.o
+                0x00000578                tmr1_timeout_off
+ .text.LCD1602_strobe
+                0x000005a0       0x80 ./src/LCD1602.o
+ .text.LCD1602_senddata
+                0x00000620      0x128 ./src/LCD1602.o
+ .text.LCD1602_printchar
+                0x00000748       0x44 ./src/LCD1602.o
+ .text.LCD1602_print_ctrl
+                0x0000078c       0x68 ./src/LCD1602.o
+ .text.LCD1602_set_DDRAM_address
+                0x000007f4       0x34 ./src/LCD1602.o
+ .text.LCD1602_clrscr
+                0x00000828       0x10 ./src/LCD1602.o
+                0x00000828                LCD1602_clrscr
+ .text.LCD1602_poweron
+                0x00000838       0x28 ./src/LCD1602.o
+                0x00000838                LCD1602_poweron
+ .text.LCD1602_4bit_init
+                0x00000860      0x118 ./src/LCD1602.o
+ .text.LCD1602_8bit_init
+                0x00000978        0xc ./src/LCD1602.o
+ .text.LCD1602_init
+                0x00000984      0x138 ./src/LCD1602.o
+                0x00000984                LCD1602_init
+ .text.LCD1602_exec
+                0x00000abc       0x84 ./src/LCD1602.o
+                0x00000abc                LCD1602_exec
+ .text.LCD1602_print
+                0x00000b40      0x10c ./src/LCD1602.o
+                0x00000b40                LCD1602_print
+ .text.Chip_IOCON_PinMuxSet
+                0x00000c4c       0x28 ./src/adc.o
+ .text.adc_start
+                0x00000c74       0xc4 ./src/adc.o
+ .text.adc_init
+                0x00000d38       0x64 ./src/adc.o
+                0x00000d38                adc_init
+ .text.adc_read_exec
+                0x00000d9c       0x54 ./src/adc.o
+                0x00000d9c                adc_read_exec
+ .text.get_adc_data
+                0x00000df0       0x14 ./src/adc.o
+                0x00000df0                get_adc_data
+ .text.buzzer_init
+                0x00000e04       0x40 ./src/buzzer.o
+                0x00000e04                buzzer_init
+ .text.buzzer_exec
+                0x00000e44      0x2d4 ./src/buzzer.o
+                0x00000e44                buzzer_exec
+ .text.data_process_init
+                0x00001118       0x88 ./src/data_process.o
+                0x00001118                data_process_init
+ .text.update_lcd
+                0x000011a0      0x1b0 ./src/data_process.o
+ .text.data_process_exec
+                0x00001350      0x2e4 ./src/data_process.o
+                0x00001350                data_process_exec
+ .text.Chip_IOCON_PinMuxSet
+                0x00001634       0x28 ./src/io.o
+ .text.Chip_IOCON_PinMux
+                0x0000165c       0x40 ./src/io.o
+ .text.Chip_GPIO_SetPinState
+                0x0000169c       0x4c ./src/io.o
+ .text.Chip_GPIO_GetPinState
+                0x000016e8       0x40 ./src/io.o
+ .text.Chip_GPIO_SetPinDIROutput
+                0x00001728       0x4c ./src/io.o
+ .text.Chip_GPIO_SetPinDIRInput
+                0x00001774       0x50 ./src/io.o
+ .text.io_init  0x000017c4       0x14 ./src/io.o
+                0x000017c4                io_init
+ .text.iocon_to_portpin
+                0x000017d8      0x35c ./src/io.o
+ .text.io_set_as_input
+                0x00001b34      0x10c ./src/io.o
+                0x00001b34                io_set_as_input
+ .text.io_get_input_state
+                0x00001c40       0x74 ./src/io.o
+                0x00001c40                io_get_input_state
+ .text.io_set_as_output
+                0x00001cb4       0xe4 ./src/io.o
+                0x00001cb4                io_set_as_output
+ .text.io_set_output_state
+                0x00001d98       0x7c ./src/io.o
+                0x00001d98                io_set_output_state
+ .text.io_debounce_init
+                0x00001e14       0xa4 ./src/io.o
+                0x00001e14                io_debounce_init
+ .text.io_debounce_exec
+                0x00001eb8      0x220 ./src/io.o
+                0x00001eb8                io_debounce_exec
+ .text.io_button_check
+                0x000020d8       0x54 ./src/io.o
+                0x000020d8                io_button_check
+ .text.main     0x0000212c       0xd0 ./src/safe_oven.o
+                0x0000212c                main
+ .text.NVIC_SetPriority
+                0x000021fc       0xdc ./src/sch.o
+ .text.SysTick_Config
+                0x000022d8       0x4c ./src/sch.o
+ .text.Chip_TIMER_Enable
+                0x00002324       0x1c ./src/sch.o
+ .text.Chip_TIMER_Disable
+                0x00002340       0x20 ./src/sch.o
+ .text.Chip_TIMER_ReadCount
+                0x00002360       0x14 ./src/sch.o
+ .text.Chip_TIMER_PrescaleSet
+                0x00002374       0x18 ./src/sch.o
+ .text.Chip_TIMER_SetMatch
+                0x0000238c       0x2c ./src/sch.o
+ .text.Chip_TIMER_MatchDisableInt
+                0x000023b8       0x38 ./src/sch.o
+ .text.Chip_TIMER_ResetOnMatchDisable
+                0x000023f0       0x38 ./src/sch.o
+ .text.Chip_TIMER_StopOnMatchDisable
+                0x00002428       0x38 ./src/sch.o
+ .text.sch_deletetask
+                0x00002460       0x64 ./src/sch.o
+ .text.sch_status
+                0x000024c4        0xc ./src/sch.o
+ .text.tmr_init
+                0x000024d0       0x60 ./src/sch.o
+ .text.tmr_timeout_set
+                0x00002530       0x68 ./src/sch.o
+                0x00002530                tmr_timeout_set
+ .text.tmr_timeout_off
+                0x00002598       0x28 ./src/sch.o
+                0x00002598                tmr_timeout_off
+ .text.sch_update
+                0x000025c0       0xd8 ./src/sch.o
+ .text.sch_init
+                0x00002698       0x38 ./src/sch.o
+                0x00002698                sch_init
+ .text.sch_start
+                0x000026d0       0x24 ./src/sch.o
+                0x000026d0                sch_start
+ .text.sch_dispatch
+                0x000026f4       0x8c ./src/sch.o
+                0x000026f4                sch_dispatch
+ .text.sch_addtask
+                0x00002780       0x8c ./src/sch.o
+                0x00002780                sch_addtask
+ .text.get_tick
+                0x0000280c       0x14 ./src/sch.o
+                0x0000280c                get_tick
+ .text.SysTick_Handler
+                0x00002820       0x1c ./src/sch.o
+                0x00002820                SysTick_Handler
+ .text.SystemInit
+                0x0000283c       0x10 ./src/sysinit.o
+                0x0000283c                SystemInit
+ .text.Chip_Clock_EnablePeriphClock
+                0x0000284c       0x30 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(adc_11xx.o)
+ .text.getFullConvClk
+                0x0000287c        0xc /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(adc_11xx.o)
+ .text.getClkDiv
+                0x00002888       0x7c /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(adc_11xx.o)
+ .text.setStartMode
+                0x00002904       0x34 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(adc_11xx.o)
+                0x00002904                setStartMode
+ .text.readAdcVal
+                0x00002938       0x48 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(adc_11xx.o)
+                0x00002938                readAdcVal
+ .text.Chip_ADC_Init
+                0x00002980       0x90 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(adc_11xx.o)
+                0x00002980                Chip_ADC_Init
+ .text.Chip_ADC_ReadValue
+                0x00002a10       0x2c /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(adc_11xx.o)
+                0x00002a10                Chip_ADC_ReadValue
+ .text.Chip_ADC_ReadStatus
+                0x00002a3c       0x7c /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(adc_11xx.o)
+                0x00002a3c                Chip_ADC_ReadStatus
+ .text.Chip_ADC_SetStartMode
+                0x00002ab8       0x68 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(adc_11xx.o)
+                0x00002ab8                Chip_ADC_SetStartMode
+ .text.Chip_ADC_SetSampleRate
+                0x00002b20       0x70 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(adc_11xx.o)
+                0x00002b20                Chip_ADC_SetSampleRate
+ .text.Chip_ADC_EnableChannel
+                0x00002b90       0x64 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(adc_11xx.o)
+                0x00002b90                Chip_ADC_EnableChannel
+ .text.SystemCoreClockUpdate
+                0x00002bf4       0x18 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(chip_11xx.o)
+                0x00002bf4                SystemCoreClockUpdate
+ .text.Chip_Clock_GetMainOscRate
+                0x00002c0c       0x14 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .text.Chip_Clock_GetIntOscRate
+                0x00002c20       0x10 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .text.Chip_Clock_GetWDTLFORate
+                0x00002c30       0x48 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .text.Chip_Clock_GetPLLFreq
+                0x00002c78       0x24 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .text.Chip_Clock_SetSystemPLLSource
+                0x00002c9c       0x2c /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(clock_11xx.o)
+                0x00002c9c                Chip_Clock_SetSystemPLLSource
+ .text.Chip_Clock_SetMainClockSource
+                0x00002cc8       0x2c /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(clock_11xx.o)
+                0x00002cc8                Chip_Clock_SetMainClockSource
+ .text.Chip_Clock_GetWDTOSCRate
+                0x00002cf4       0x1c /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(clock_11xx.o)
+                0x00002cf4                Chip_Clock_GetWDTOSCRate
+ .text.Chip_Clock_GetSystemPLLInClockRate
+                0x00002d10       0x40 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(clock_11xx.o)
+                0x00002d10                Chip_Clock_GetSystemPLLInClockRate
+ .text.Chip_Clock_GetSystemPLLOutClockRate
+                0x00002d50       0x24 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(clock_11xx.o)
+                0x00002d50                Chip_Clock_GetSystemPLLOutClockRate
+ .text.Chip_Clock_GetMainClockRate
+                0x00002d74       0x60 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(clock_11xx.o)
+                0x00002d74                Chip_Clock_GetMainClockRate
+ .text.Chip_Clock_GetSystemClockRate
+                0x00002dd4       0x24 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(clock_11xx.o)
+                0x00002dd4                Chip_Clock_GetSystemClockRate
+ .text.Chip_Clock_EnablePeriphClock
+                0x00002df8       0x30 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .text.Chip_GPIO_Init
+                0x00002e28       0x18 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+                0x00002e28                Chip_GPIO_Init
+ .text.Chip_SYSCTL_PowerDown
+                0x00002e40       0x40 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+                0x00002e40                Chip_SYSCTL_PowerDown
+ .text.Chip_SYSCTL_PowerUp
+                0x00002e80       0x40 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+                0x00002e80                Chip_SYSCTL_PowerUp
+ .text.Chip_FMC_SetFLASHAccess
+                0x00002ec0       0x30 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysinit_11xx.o)
+ .text.Chip_Clock_SetupSystemPLL
+                0x00002ef0       0x38 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysinit_11xx.o)
+ .text.Chip_Clock_IsSystemPLLLocked
+                0x00002f28       0x1c /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysinit_11xx.o)
+ .text.Chip_Clock_SetSysClockDiv
+                0x00002f44       0x1c /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysinit_11xx.o)
+ .text.Chip_Clock_EnablePeriphClock
+                0x00002f60       0x30 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysinit_11xx.o)
+ .text.Chip_SystemInit
+                0x00002f90       0x5c /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysinit_11xx.o)
+                0x00002f90                Chip_SystemInit
+ .text.Chip_Clock_EnablePeriphClock
+                0x00002fec       0x30 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(timer_11xx.o)
+ .text.Chip_TIMER_GetClock
+                0x0000301c       0x60 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(timer_11xx.o)
+ .text.Chip_TIMER_Init
+                0x0000307c       0x20 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(timer_11xx.o)
+                0x0000307c                Chip_TIMER_Init
+ .text.Chip_TIMER_Reset
+                0x0000309c       0x38 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(timer_11xx.o)
+                0x0000309c                Chip_TIMER_Reset
+ .text.__weak_main
+                0x000030d4        0x8 /opt/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(__weak__main.o)
+                0x000030d4                __main
+                0x000030d4                __weak_main
+ .text.__aeabi_division_idivmod
+                0x000030dc       0x78 /opt/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/libcr_eabihelpers.a(division_32.o)
+                0x000030dc                __aeabi_idiv
+                0x000030dc                __aeabi_idivmod
+                0x000030e2                __aeabi_uidiv
+                0x000030e2                __aeabi_uidivmod
+ .text.__aeabi_division_idiv0
+                0x00003154        0x2 /opt/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/libcr_eabihelpers.a(division_idiv0.o)
+                0x00003154                __aeabi_idiv0
+ *(.rodata .rodata.* .constdata .constdata.*)
+ *fill*         0x00003156        0x2 ff
+ .rodata.adc_start
+                0x00003158       0x20 ./src/adc.o
+ .rodata.buzzer_exec
+                0x00003178       0x38 ./src/buzzer.o
+ .rodata.lcd_furnace_off
+                0x000031b0        0x4 ./src/data_process.o
+ .rodata.lcd_furnace_error
+                0x000031b4        0xb ./src/data_process.o
+ *fill*         0x000031bf        0x1 ff
+ .rodata.lcd_furnace_finished
+                0x000031c0        0x9 ./src/data_process.o
+ *fill*         0x000031c9        0x3 ff
+ .rodata.iocon_to_portpin
+                0x000031cc       0xb0 ./src/io.o
+ .rodata.io_set_as_input
+                0x0000327c       0x88 ./src/io.o
+ .rodata.OscRateIn
+                0x00003304        0x4 ./src/sysinit.o
+                0x00003304                OscRateIn
+ .rodata.wdtOSCRate
+                0x00003308       0x40 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(clock_11xx.o)
+                0x00003348                . = ALIGN (0x4)
+
+.glue_7         0x00003348        0x0
+ .glue_7        0x00003348        0x0 linker stubs
+
+.glue_7t        0x00003348        0x0
+ .glue_7t       0x00003348        0x0 linker stubs
+
+.vfp11_veneer   0x00003348        0x0
+ .vfp11_veneer  0x00003348        0x0 linker stubs
+
+.v4_bx          0x00003348        0x0
+ .v4_bx         0x00003348        0x0 linker stubs
+
+.iplt           0x00003348        0x0
+ .iplt          0x00003348        0x0 ./src/LCD1602.o
+
+.rel.dyn        0x00003348        0x0
+ .rel.iplt      0x00003348        0x0 ./src/LCD1602.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x00003348                __exidx_start = .
+
+.ARM.exidx
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+                0x00003348                __exidx_end = .
+                0x00003348                _etext = .
+
+.uninit_RESERVED
+                0x10000000        0x0
+ *(.bss.$RESERVED*)
+                0x10000000                . = ALIGN (0x4)
+                0x10000000                _end_uninit_RESERVED = .
+
+.data           0x10000000       0x2c load address 0x00003348
+ FILL mask 0xff
+                0x10000000                _data = .
+ *(vtable)
+ *(.ramfunc*)
+ *(.data*)
+ .data.lcd_counter
+                0x10000000        0x1 ./src/LCD1602.o
+                0x10000000                lcd_counter
+ *fill*         0x10000001        0x3 ff
+ .data.lcd_furnace_on
+                0x10000004       0x11 ./src/data_process.o
+ *fill*         0x10000015        0x3 ff
+ .data.lcd_timer_status
+                0x10000018        0xe ./src/data_process.o
+ *fill*         0x10000026        0x2 ff
+ .data.countdown_second.5843
+                0x10000028        0x4 ./src/data_process.o
+                0x1000002c                . = ALIGN (0x4)
+                0x1000002c                _edata = .
+
+.igot.plt       0x1000002c        0x0 load address 0x00003374
+ .igot.plt      0x1000002c        0x0 ./src/LCD1602.o
+
+.bss            0x1000002c      0x180 load address 0x00003374
+                0x1000002c                _bss = .
+ *(.bss*)
+ .bss.lc        0x1000002c        0xd ./src/LCD1602.o
+                0x1000002c                lc
+ .bss.ps        0x10000039        0x1 ./src/LCD1602.o
+                0x10000039                ps
+ *fill*         0x1000003a        0x2 
+ .bss.lcd_text  0x1000003c       0x20 ./src/LCD1602.o
+                0x1000003c                lcd_text
+ .bss.adc_data  0x1000005c        0x2 ./src/adc.o
+ .bss.ch        0x1000005e        0x1 ./src/adc.o
+                0x1000005e                ch
+ .bss.bs        0x1000005f        0x1 ./src/buzzer.o
+ .bss.bs_switch
+                0x10000060        0x4 ./src/buzzer.o
+ .bss.pin_buzzer
+                0x10000064        0x1 ./src/buzzer.o
+ .bss.herd_ctrl_pin
+                0x10000065        0x1 ./src/data_process.o
+ .bss.pushbtn_pin
+                0x10000066        0x1 ./src/data_process.o
+ .bss.switch_pin
+                0x10000067        0x1 ./src/data_process.o
+ .bss.tmr_min.5842
+                0x10000068        0x2 ./src/data_process.o
+ .bss.st.5841   0x1000006a        0x1 ./src/data_process.o
+ .bss.push_oldstate.5844
+                0x1000006b        0x1 ./src/data_process.o
+ .bss.i.5847    0x1000006c        0x4 ./src/data_process.o
+ .bss.bt        0x10000070       0x30 ./src/io.o
+ .bss.nactive_buttons
+                0x100000a0        0x1 ./src/io.o
+ *fill*         0x100000a1        0x3 
+ .bss.Tick      0x100000a4        0x4 ./src/sch.o
+ .bss.task      0x100000a8      0x100 ./src/sch.o
+ *(COMMON)
+ COMMON         0x100001a8        0x4 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(chip_11xx.o)
+                0x100001a8                SystemCoreClock
+                0x100001ac                . = ALIGN (0x4)
+                0x100001ac                _ebss = .
+                [!provide]                PROVIDE (end, .)
+
+.noinit         0x100001ac        0x0 load address 0x00003374
+                0x100001ac                _noinit = .
+ *(.noinit*)
+                0x100001ac                . = ALIGN (0x4)
+                0x100001ac                _end_noinit = .
+                [!provide]                PROVIDE (_pvHeapStart, DEFINED (__user_heap_base)?__user_heap_base:.)
+                0x10002000                PROVIDE (_vStackTop, DEFINED (__user_stack_top)?__user_stack_top:(__top_RamLoc8 - 0x0))
+                0xefffdb1d                PROVIDE (__valid_user_code_checksum, (0x0 - (((_vStackTop + (ResetISR + 0x1)) + (DEFINED (NMI_Handler)?NMI_Handler:M0_NMI_Handler + 0x1)) + (DEFINED (HardFault_Handler)?HardFault_Handler:M0_HardFault_Handler + 0x1))))
+OUTPUT(safe_oven.axf elf32-littlearm)
+
+.debug_info     0x00000000     0x61f2
+ .debug_info    0x00000000      0x95b ./src/LCD1602.o
+ .debug_info    0x0000095b      0x500 ./src/adc.o
+ .debug_info    0x00000e5b      0x2e4 ./src/buzzer.o
+ .debug_info    0x0000113f      0x203 ./src/cr_startup_lpc11xx.o
+ .debug_info    0x00001342       0x3f ./src/crp.o
+ .debug_info    0x00001381      0x463 ./src/data_process.o
+ .debug_info    0x000017e4      0x79d ./src/io.o
+ .debug_info    0x00001f81      0x230 ./src/safe_oven.o
+ .debug_info    0x000021b1      0x90a ./src/sch.o
+ .debug_info    0x00002abb       0xc8 ./src/sysinit.o
+ .debug_info    0x00002b83      0xc37 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(adc_11xx.o)
+ .debug_info    0x000037ba       0xc2 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(chip_11xx.o)
+ .debug_info    0x0000387c      0x893 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .debug_info    0x0000410f      0xb59 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .debug_info    0x00004c68      0x593 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+ .debug_info    0x000051fb      0x7f6 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysinit_11xx.o)
+ .debug_info    0x000059f1      0x801 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(timer_11xx.o)
+
+.debug_abbrev   0x00000000     0x16e1
+ .debug_abbrev  0x00000000      0x29d ./src/LCD1602.o
+ .debug_abbrev  0x0000029d      0x187 ./src/adc.o
+ .debug_abbrev  0x00000424       0xc9 ./src/buzzer.o
+ .debug_abbrev  0x000004ed       0xe6 ./src/cr_startup_lpc11xx.o
+ .debug_abbrev  0x000005d3       0x36 ./src/crp.o
+ .debug_abbrev  0x00000609      0x121 ./src/data_process.o
+ .debug_abbrev  0x0000072a      0x22f ./src/io.o
+ .debug_abbrev  0x00000959       0xa9 ./src/safe_oven.o
+ .debug_abbrev  0x00000a02      0x2d1 ./src/sch.o
+ .debug_abbrev  0x00000cd3       0x6a ./src/sysinit.o
+ .debug_abbrev  0x00000d3d      0x1ec /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(adc_11xx.o)
+ .debug_abbrev  0x00000f29       0x7b /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(chip_11xx.o)
+ .debug_abbrev  0x00000fa4      0x1c0 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .debug_abbrev  0x00001164      0x1a9 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .debug_abbrev  0x0000130d       0xce /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+ .debug_abbrev  0x000013db      0x171 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysinit_11xx.o)
+ .debug_abbrev  0x0000154c      0x195 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(timer_11xx.o)
+
+.debug_aranges  0x00000000      0x6b8
+ .debug_aranges
+                0x00000000      0x110 ./src/LCD1602.o
+ .debug_aranges
+                0x00000110       0x40 ./src/adc.o
+ .debug_aranges
+                0x00000150       0x50 ./src/buzzer.o
+ .debug_aranges
+                0x000001a0       0x60 ./src/cr_startup_lpc11xx.o
+ .debug_aranges
+                0x00000200       0x18 ./src/crp.o
+ .debug_aranges
+                0x00000218       0x30 ./src/data_process.o
+ .debug_aranges
+                0x00000248       0x90 ./src/io.o
+ .debug_aranges
+                0x000002d8       0x20 ./src/safe_oven.o
+ .debug_aranges
+                0x000002f8       0xd8 ./src/sch.o
+ .debug_aranges
+                0x000003d0       0x20 ./src/sysinit.o
+ .debug_aranges
+                0x000003f0       0xa0 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(adc_11xx.o)
+ .debug_aranges
+                0x00000490       0x20 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(chip_11xx.o)
+ .debug_aranges
+                0x000004b0       0x88 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .debug_aranges
+                0x00000538       0xb0 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .debug_aranges
+                0x000005e8       0x38 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+ .debug_aranges
+                0x00000620       0x48 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysinit_11xx.o)
+ .debug_aranges
+                0x00000668       0x50 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(timer_11xx.o)
+
+.debug_ranges   0x00000000      0x5b8
+ .debug_ranges  0x00000000      0x100 ./src/LCD1602.o
+ .debug_ranges  0x00000100       0x30 ./src/adc.o
+ .debug_ranges  0x00000130       0x40 ./src/buzzer.o
+ .debug_ranges  0x00000170       0x50 ./src/cr_startup_lpc11xx.o
+ .debug_ranges  0x000001c0       0x38 ./src/data_process.o
+ .debug_ranges  0x000001f8       0x80 ./src/io.o
+ .debug_ranges  0x00000278       0x10 ./src/safe_oven.o
+ .debug_ranges  0x00000288       0xc8 ./src/sch.o
+ .debug_ranges  0x00000350       0x10 ./src/sysinit.o
+ .debug_ranges  0x00000360       0x90 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(adc_11xx.o)
+ .debug_ranges  0x000003f0       0x10 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(chip_11xx.o)
+ .debug_ranges  0x00000400       0x78 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .debug_ranges  0x00000478       0xa0 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .debug_ranges  0x00000518       0x28 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+ .debug_ranges  0x00000540       0x38 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysinit_11xx.o)
+ .debug_ranges  0x00000578       0x40 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(timer_11xx.o)
+
+.debug_macro    0x00000000     0x3c47
+ .debug_macro   0x00000000      0x179 ./src/LCD1602.o
+ .debug_macro   0x00000179      0x84a ./src/LCD1602.o
+ .debug_macro   0x000009c3       0x10 ./src/LCD1602.o
+ .debug_macro   0x000009d3      0x12d ./src/LCD1602.o
+ .debug_macro   0x00000b00      0x5b2 ./src/LCD1602.o
+ .debug_macro   0x000010b2       0x22 ./src/LCD1602.o
+ .debug_macro   0x000010d4       0x7b ./src/LCD1602.o
+ .debug_macro   0x0000114f       0x10 ./src/LCD1602.o
+ .debug_macro   0x0000115f       0x1f ./src/LCD1602.o
+ .debug_macro   0x0000117e       0x3a ./src/LCD1602.o
+ .debug_macro   0x000011b8      0x241 ./src/LCD1602.o
+ .debug_macro   0x000013f9      0x117 ./src/LCD1602.o
+ .debug_macro   0x00001510       0x22 ./src/LCD1602.o
+ .debug_macro   0x00001532       0xb2 ./src/LCD1602.o
+ .debug_macro   0x000015e4       0x10 ./src/LCD1602.o
+ .debug_macro   0x000015f4      0x137 ./src/LCD1602.o
+ .debug_macro   0x0000172b       0x4c ./src/LCD1602.o
+ .debug_macro   0x00001777       0x16 ./src/LCD1602.o
+ .debug_macro   0x0000178d      0x31a ./src/LCD1602.o
+ .debug_macro   0x00001aa7       0x2e ./src/LCD1602.o
+ .debug_macro   0x00001ad5       0xb8 ./src/LCD1602.o
+ .debug_macro   0x00001b8d       0x11 ./src/LCD1602.o
+ .debug_macro   0x00001b9e       0x7c ./src/LCD1602.o
+ .debug_macro   0x00001c1a      0x21c ./src/LCD1602.o
+ .debug_macro   0x00001e36      0x113 ./src/LCD1602.o
+ .debug_macro   0x00001f49       0xbe ./src/LCD1602.o
+ .debug_macro   0x00002007      0x151 ./src/adc.o
+ .debug_macro   0x00002158       0x1c ./src/adc.o
+ .debug_macro   0x00002174      0x165 ./src/buzzer.o
+ .debug_macro   0x000022d9       0x1d ./src/cr_startup_lpc11xx.o
+ .debug_macro   0x000022f6       0x1a ./src/crp.o
+ .debug_macro   0x00002310       0x34 ./src/crp.o
+ .debug_macro   0x00002344      0x17f ./src/data_process.o
+ .debug_macro   0x000024c3      0x164 ./src/io.o
+ .debug_macro   0x00002627      0x18f ./src/safe_oven.o
+ .debug_macro   0x000027b6       0x82 ./src/safe_oven.o
+ .debug_macro   0x00002838      0x157 ./src/sch.o
+ .debug_macro   0x0000298f       0x16 ./src/sch.o
+ .debug_macro   0x000029a5      0x148 ./src/sysinit.o
+ .debug_macro   0x00002aed      0x148 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(adc_11xx.o)
+ .debug_macro   0x00002c35      0x838 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(adc_11xx.o)
+ .debug_macro   0x0000346d      0x148 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(chip_11xx.o)
+ .debug_macro   0x000035b5      0x148 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .debug_macro   0x000036fd      0x148 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .debug_macro   0x00003845      0x172 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+ .debug_macro   0x000039b7      0x148 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysinit_11xx.o)
+ .debug_macro   0x00003aff      0x148 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(timer_11xx.o)
+
+.debug_line     0x00000000     0x3aae
+ .debug_line    0x00000000      0x69b ./src/LCD1602.o
+ .debug_line    0x0000069b      0x347 ./src/adc.o
+ .debug_line    0x000009e2      0x3a9 ./src/buzzer.o
+ .debug_line    0x00000d8b       0xba ./src/cr_startup_lpc11xx.o
+ .debug_line    0x00000e45       0x76 ./src/crp.o
+ .debug_line    0x00000ebb      0x3da ./src/data_process.o
+ .debug_line    0x00001295      0x4e1 ./src/io.o
+ .debug_line    0x00001776      0x37b ./src/safe_oven.o
+ .debug_line    0x00001af1      0x530 ./src/sch.o
+ .debug_line    0x00002021      0x2a1 ./src/sysinit.o
+ .debug_line    0x000022c2      0x423 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(adc_11xx.o)
+ .debug_line    0x000026e5      0x2a3 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(chip_11xx.o)
+ .debug_line    0x00002988      0x3cd /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .debug_line    0x00002d55      0x42e /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .debug_line    0x00003183      0x2e0 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+ .debug_line    0x00003463      0x31a /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysinit_11xx.o)
+ .debug_line    0x0000377d      0x331 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(timer_11xx.o)
+
+.debug_str      0x00000000     0xa9ce
+ .debug_str     0x00000000     0x84f1 ./src/LCD1602.o
+                               0x85ed (size before relaxing)
+ .debug_str     0x000084f1      0x301 ./src/adc.o
+                               0x82c1 (size before relaxing)
+ .debug_str     0x000087f2      0x16a ./src/buzzer.o
+                               0x813a (size before relaxing)
+ .debug_str     0x0000895c      0x178 ./src/cr_startup_lpc11xx.o
+                               0x2530 (size before relaxing)
+ .debug_str     0x00008ad4       0xe9 ./src/crp.o
+                               0x2492 (size before relaxing)
+ .debug_str     0x00008bbd      0x1d9 ./src/data_process.o
+                               0x845b (size before relaxing)
+ .debug_str     0x00008d96      0x1c6 ./src/io.o
+                               0x8211 (size before relaxing)
+ .debug_str     0x00008f5c      0x461 ./src/safe_oven.o
+                               0x876d (size before relaxing)
+ .debug_str     0x000093bd      0x399 ./src/sch.o
+                               0x8295 (size before relaxing)
+ .debug_str     0x00009756       0x1b ./src/sysinit.o
+                               0x7d6f (size before relaxing)
+ .debug_str     0x00009771      0x6f3 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(adc_11xx.o)
+                               0x85c1 (size before relaxing)
+ .debug_str     0x00009e64       0x29 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(chip_11xx.o)
+                               0x7d2e (size before relaxing)
+ .debug_str     0x00009e8d      0x550 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(clock_11xx.o)
+                               0x84f2 (size before relaxing)
+ .debug_str     0x0000a3dd      0x1ff /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+                               0x83d0 (size before relaxing)
+ .debug_str     0x0000a5dc      0x19f /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+                               0x813c (size before relaxing)
+ .debug_str     0x0000a77b      0x131 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysinit_11xx.o)
+                               0x8395 (size before relaxing)
+ .debug_str     0x0000a8ac      0x122 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(timer_11xx.o)
+                               0x82c3 (size before relaxing)
+
+.comment        0x00000000       0xdc
+ .comment       0x00000000       0x6e ./src/LCD1602.o
+                                 0x6f (size before relaxing)
+ .comment       0x0000006e       0x6f ./src/adc.o
+ .comment       0x0000006e       0x6f ./src/buzzer.o
+ .comment       0x0000006e       0x6f ./src/cr_startup_lpc11xx.o
+ .comment       0x0000006e       0x6f ./src/crp.o
+ .comment       0x0000006e       0x6f ./src/data_process.o
+ .comment       0x0000006e       0x6f ./src/io.o
+ .comment       0x0000006e       0x6f ./src/safe_oven.o
+ .comment       0x0000006e       0x6f ./src/sch.o
+ .comment       0x0000006e       0x6f ./src/sysinit.o
+ .comment       0x0000006e       0x6f /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(adc_11xx.o)
+ .comment       0x0000006e       0x6f /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(chip_11xx.o)
+ .comment       0x0000006e       0x6f /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .comment       0x0000006e       0x6f /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .comment       0x0000006e       0x6f /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+ .comment       0x0000006e       0x6f /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysinit_11xx.o)
+ .comment       0x0000006e       0x6f /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(timer_11xx.o)
+ .comment       0x0000006e       0x6e /opt/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(__weak__main.o)
+                                 0x6f (size before relaxing)
+
+.ARM.attributes
+                0x00000000       0x2f
+ .ARM.attributes
+                0x00000000       0x31 ./src/LCD1602.o
+ .ARM.attributes
+                0x00000031       0x31 ./src/adc.o
+ .ARM.attributes
+                0x00000062       0x31 ./src/buzzer.o
+ .ARM.attributes
+                0x00000093       0x31 ./src/cr_startup_lpc11xx.o
+ .ARM.attributes
+                0x000000c4       0x31 ./src/crp.o
+ .ARM.attributes
+                0x000000f5       0x31 ./src/data_process.o
+ .ARM.attributes
+                0x00000126       0x31 ./src/io.o
+ .ARM.attributes
+                0x00000157       0x31 ./src/safe_oven.o
+ .ARM.attributes
+                0x00000188       0x31 ./src/sch.o
+ .ARM.attributes
+                0x000001b9       0x31 ./src/sysinit.o
+ .ARM.attributes
+                0x000001ea       0x31 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(adc_11xx.o)
+ .ARM.attributes
+                0x0000021b       0x31 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(chip_11xx.o)
+ .ARM.attributes
+                0x0000024c       0x31 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .ARM.attributes
+                0x0000027d       0x31 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .ARM.attributes
+                0x000002ae       0x31 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+ .ARM.attributes
+                0x000002df       0x31 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysinit_11xx.o)
+ .ARM.attributes
+                0x00000310       0x31 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(timer_11xx.o)
+ .ARM.attributes
+                0x00000341       0x31 /opt/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(__weak__main.o)
+ .ARM.attributes
+                0x00000372       0x21 /opt/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/libcr_eabihelpers.a(division_32.o)
+ .ARM.attributes
+                0x00000393       0x21 /opt/lpcxpresso_8.2.2_650/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv6-m/libcr_eabihelpers.a(division_idiv0.o)
+
+.debug_frame    0x00000000     0x14e8
+ .debug_frame   0x00000000      0x3c8 ./src/LCD1602.o
+ .debug_frame   0x000003c8       0xa8 ./src/adc.o
+ .debug_frame   0x00000470       0xd8 ./src/buzzer.o
+ .debug_frame   0x00000548      0x118 ./src/cr_startup_lpc11xx.o
+ .debug_frame   0x00000660       0x70 ./src/data_process.o
+ .debug_frame   0x000006d0      0x1ec ./src/io.o
+ .debug_frame   0x000008bc       0x30 ./src/safe_oven.o
+ .debug_frame   0x000008ec      0x300 ./src/sch.o
+ .debug_frame   0x00000bec       0x2c ./src/sysinit.o
+ .debug_frame   0x00000c18      0x22c /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(adc_11xx.o)
+ .debug_frame   0x00000e44       0x2c /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(chip_11xx.o)
+ .debug_frame   0x00000e70      0x1c0 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .debug_frame   0x00001030      0x270 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .debug_frame   0x000012a0       0x90 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+ .debug_frame   0x00001330       0xc8 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(sysinit_11xx.o)
+ .debug_frame   0x000013f8       0xf0 /home/tgjuranec/lpc11xx/lpc_chip_11cxx_lib/Debug/liblpc_chip_11cxx_lib.a(timer_11xx.o)
